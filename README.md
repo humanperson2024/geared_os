@@ -19,7 +19,7 @@
 
 REQUIREMENTS: 
 RAM: at least 4gb
-DISK: more than 125gb recommended   
+DISK: more than 140gb recommended   
 EXPERIENCE: at least know how to burn files to storage.
 
 NOTES:
